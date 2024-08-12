@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="bankingsystem.cpp" />
     <ClCompile Include="cgpacalculator.cpp" />
+    <ClCompile Include="sudokusolver.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
